@@ -7,3 +7,5 @@ def countdown(integer)
   end
   "HAPPY NEW YEAR!"
 end
+
+countdown(3)
